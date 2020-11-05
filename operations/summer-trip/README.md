@@ -7,5 +7,5 @@
 ## Solution
 
 ```sh
-<!-- todo -->
+cd $(find . -name italy 2> /dev/null | xargs dirname)
 ```

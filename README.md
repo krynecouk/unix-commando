@@ -18,11 +18,11 @@ Operations of unix command line forces.
 
   Change file extensions from .JPG to .jpg
 
-- [Quote Game](./operations/quote-game)(TBD)
+- [Quote Game](./operations/quote-game)
 
   Find file containing specific line.
 
-- [Summer Trip](./operations/summer-trip)(TBD)
+- [Summer Trip](./operations/summer-trip)
 
   Navigate to the folder of the file you are looking for.
 
