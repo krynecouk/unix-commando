@@ -14,7 +14,7 @@ Operations of unix command line forces.
 
   Sum everything from the column.
 
-- [Little Switch](./operations/little-switch) (TBD)
+- [Little Switch](./operations/little-switch)
 
   Change file extensions from .JPG to .jpg
 

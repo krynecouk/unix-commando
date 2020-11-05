@@ -7,5 +7,5 @@
 ## Solution
 
 ```sh
-<!-- todo -->
+grep -Ri --exclude="README.md" "it's a chopper" .
 ```
