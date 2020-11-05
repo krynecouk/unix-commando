@@ -7,5 +7,5 @@
 ## Solution
 
 ```sh
-<!-- todo -->
+rename 's/\.JPG$/.jpg/' ./resources/*.JPG
 ```
