@@ -26,4 +26,8 @@ Operations of unix command line forces.
 
   Navigate to the folder of the file you are looking for.
 
+- [No Time To Sha-Bang](./operations/no-time-to-sha-bang)
+
+  Create shell function without any intermediate shell script files.
+
 - Next to come...
