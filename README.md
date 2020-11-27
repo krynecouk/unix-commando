@@ -29,5 +29,9 @@ Operations of unix command line forces.
 - [No Time To Sha-Bang](./operations/no-time-to-sha-bang)
 
   Create shell function without any intermediate shell script files.
+  
+- [Pipe to Copy](./operations/pipe-to-copy)
+
+  Pipe the command line result into the clipboard.
 
 - Next to come...
